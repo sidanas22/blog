@@ -19,7 +19,7 @@ module.exports = {
   ogTwitter: '',
 
   // The notion ID of the database containing the blog posts. (currente example is the public template)
-  databaseId: 'e7cd4a4665904791ac9ee1a351eabe5d',
+  databaseId: 'df1356585a374f87b04263dfeb17bd4c',
 
   // Set specific text colors for each author.
   // Author names are their "sluggified" selves (lowercased, with spaces as '-')
